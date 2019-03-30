@@ -137,3 +137,11 @@
     height:8%;
     background-color:#00ff00;
 }
+
+textarea {
+    position: absolute;
+    top:3%;
+    left:60%;
+    width:35%;
+    height:70%;
+}

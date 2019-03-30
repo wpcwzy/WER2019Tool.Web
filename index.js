@@ -1,4 +1,4 @@
 function test(sender){
     console.log("Trigger");
-    sender.innerHTML="#00aa00";
+    document.getElementById("code").innerHTML+="TEST\n"
 }
